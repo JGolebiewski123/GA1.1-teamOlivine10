@@ -10,6 +10,8 @@ Subtract: This notebook can be used to subtract two values from each other. To u
 
 Multiply: the multiply function allows a user to enter two variables which are then mutiplied
 
+# Extension Function Subteam B
+New code generates the list of sums for each value in the list, sums up every previous value.
 
 
 
