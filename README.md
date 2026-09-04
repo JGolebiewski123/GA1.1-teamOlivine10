@@ -12,3 +12,8 @@ Multiply: the multiply function allows a user to enter two variables which are t
 
 # Extension Function Subteam B
 New code generates the list of sums for each value in the list, sums up every previous value.
+
+
+
+
+distance from zero tells you how far a number is from 0, without caring whether the number is positive or negative.
