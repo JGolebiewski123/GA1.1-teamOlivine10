@@ -9,3 +9,9 @@ Subtract: This notebook can be used to subtract two values from each other. To u
 
 
 Multiply: the multiply function allows a user to enter two variables which are then mutiplied
+
+
+
+
+
+distance from zero tells you how far a number is from 0, without caring whether the number is positive or negative.
