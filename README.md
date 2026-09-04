@@ -9,3 +9,4 @@ Subtract: This notebook can be used to subtract two values from each other. To u
 
 
 Multiply: the multiply function allows a user to enter two variables which are then mutiplied
+An additional feature of Multiply is a square function. By multiplying the same number you get the square
