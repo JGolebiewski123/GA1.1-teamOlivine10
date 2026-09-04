@@ -11,7 +11,7 @@ Subtract: This notebook can be used to subtract two values from each other. To u
 Multiply: the multiply function allows a user to enter two variables which are then mutiplied
 
 # Extension Function Subteam A: SQUARE
-An additional feature of Multiply is a square function. By multiplying the same number you get the square
+An additional feature of multiply is a square function. By multiplying the same number you get the square
 
 # Extension Function Subteam B: SUM LIST
 New code generates the list of sums for each value in the list, sums up every previous value.
